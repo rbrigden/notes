@@ -25,10 +25,14 @@
             "id": "5c8ba9ceeed57c14",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Mark Tensen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mark Tensen"
             }
           },
           {
@@ -222,7 +226,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "514405206df61770",
+  "active": "5c8ba9ceeed57c14",
   "lastOpenFiles": [
     "Meetings",
     "Microcosmos Reimagining Artificial Life for the GPU Era.md",
